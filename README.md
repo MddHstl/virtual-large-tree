@@ -1,5 +1,7 @@
 # vue-project
 
+Link to use /virtual-large-tree/?type=canvas !!!
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup

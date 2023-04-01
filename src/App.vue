@@ -4,11 +4,10 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <header>
+  <!-- <header>
     <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="50" height="50" />
 
     <div class="wrapper">
-      <!-- <HelloWorld msg="You did it!" /> -->
 
       <nav>
         <RouterLink to="/">Home</RouterLink>
@@ -16,7 +15,7 @@ import HelloWorld from './components/HelloWorld.vue'
         <RouterLink to="/tree">Tree</RouterLink>
       </nav>
     </div>
-  </header>
+  </header> -->
 
 
 
